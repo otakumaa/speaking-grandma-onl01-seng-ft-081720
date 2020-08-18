@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
     'I LOVE YOU TOO PUMPKIN!'
   elsif phrase == 'WHAT DID YOU EAT TODAY?'
     'NO, NOT SINCE 1938!'
-  elsif phrase == 'WHAT'
+  elsif phrase == 'WHAT?'
     'NO, NOT SINCE 1938!'
   end
 end
